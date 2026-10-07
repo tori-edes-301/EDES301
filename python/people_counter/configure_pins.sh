@@ -43,3 +43,4 @@
 
 
 # Button
+    config-pin P2_02 gpio 
